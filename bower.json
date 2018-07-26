@@ -1,0 +1,32 @@
+{
+  "name": "vegfarm",
+  "homepage": "",
+  "authors": [
+    ""
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "src/main/resources/static/bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular-animate": "^1.6.0",
+    "angular-cookies": "^1.6.0",
+    "angular-route": "^1.6.0",
+    "angular-resource": "^1.6.0",
+    "angular-touch": "^1.6.0",
+    "angular-sanitize": "^1.6.0",
+    "angular-ui-router": "^0.3.2",
+    "angular": "^1.6.1",
+    "restangular": "^1.5.2",
+    "lodash": "^4.17.4",
+    "angular-utils-pagination":"^0.11.1"
+  }
+}
